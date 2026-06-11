@@ -1,4 +1,4 @@
-package HuadongWindow;
+package hot100.HuadongWindow;
 
 import java.util.HashMap;
 import java.util.Map;
