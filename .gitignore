@@ -1,0 +1,21 @@
+# ---- IDE ----
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ---- Java 编译产物 ----
+*.class
+target/
+build/
+
+# ---- 操作系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 临时文件 ----
+net
+net.md
+note/*.png
